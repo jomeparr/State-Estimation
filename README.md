@@ -1,3 +1,5 @@
+#**Solution of the state estimation with an Histogram filter**
+
 <p align="center">
 <img src="./assets/images/dtlogo.png" alt="Duckietown Logo" width="50%">
 </p>
